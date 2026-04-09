@@ -1,6 +1,6 @@
-# Ignore all PyTorch weights
-*.pt
 
-# Ignore all text and json files
+*.pt
+*.zip
 *.txt
 *.json
+*.safetensors
