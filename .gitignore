@@ -1,0 +1,6 @@
+# Ignore all PyTorch weights
+*.pt
+
+# Ignore all text and json files
+*.txt
+*.json
